@@ -55,4 +55,4 @@ Removes all build artifacts (`build/`, `output/`).
 On startup, the kernel (`kernel_main`) initializes, in order: serial port, GDT,
 PIC remapping, IDT, terminal, timer (1000 Hz), then enables interrupts. It then
 sets up memory (PMM, then MMU paging), plays the logo animation, initializes the
-keyboard and starts the [interactive shell](/shell/).
+keyboard and starts the [interactive shell]({{ '/shell/' | relative_url }}).
