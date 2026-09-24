@@ -25,7 +25,7 @@ information with the ASCII logo:
 > fetch
 ```
 
-The [command reference](/commands/) details each command and its options.
+The [command reference]({{ '/commands/' | relative_url }}) details each command and its options.
 
 ## Adding a command
 
